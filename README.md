@@ -67,7 +67,7 @@ Editor:LDN
 
 # 说明文档的索引
 
-## 基本知识点
+## [基本知识点](http://www.github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/Basic/readme.md "点击跳转")
    * 操作系统如何识别按键被按下和释放
    * USB报告率
    * 全键无冲/6键无冲
