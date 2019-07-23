@@ -1,4 +1,4 @@
-李大拿的键盘固件V0.2说明
+﻿李大拿的键盘固件V0.2说明
 =====================
 LDN_RGB_KeyBoard_FirmwareV0.2-help
 =====================
@@ -7,7 +7,7 @@ LDN keyboard firmware V0.2 help files, descriptions and examples of various sett
 ****
 Editor:LDN
 ****
-## 软硬件特性
+# 软硬件特性
 #### 硬件特性
    * 使用STM32F103(72Mhz) or STM32F405/407(168Mhz) ARM核心的处理器
    * 独立的SPI FLASH芯片储存配置信息
@@ -62,3 +62,28 @@ Editor:LDN
    * __触发层的优先级高于功能层__
    * 可以通过编程的方式，自动激活某个触发层
    
+   ----
+
+# 说明文档的索引
+
+## 功能层
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
