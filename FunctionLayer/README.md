@@ -32,6 +32,29 @@ Editor:LDN
    #### 认识功能层的配置界面
    ![PNG File](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionLayer/FuncLayerAll.png "")
    
+   * 1  功能层标签页
+   * 2  KeyBoard Connected表示已连接键盘固件，BootLoader Connected表示键盘进入了BootLoader模式，并且已连接
+   * 3  HwVer:0.1 硬件的版本号
+   * 4  FwVer:0.1 固件的版本号
+   * 5  BootLoaderVer:0.1 表示BootLoader的版本号
+   * 6  当前编辑的功能层
+   * 7  当前功能层的优先级以及开关状态
+   * 8  功能层的管理功能
+   * 9  当前键盘的配列图示以及编辑区，同时会显示每个按键配置的功能
+   * 10 在方框(**按键**)的**上半部分**，表示 **释放事件** 所配置的功能
+   * 11 在方框(**按键**)的**下半部分**，表示 **按下事件** 所配置的功能
+   * 12 方框(**按键**)的右边的数字编号，表示 **这个按键在键盘内部的编号，很重要，很多功能都需要使用这个编号**
+   * 13 当鼠标悬停在某个方框(**按键**)上的时候，会弹出提示框，显示这个按键所配置的功能详解
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    
    
    
