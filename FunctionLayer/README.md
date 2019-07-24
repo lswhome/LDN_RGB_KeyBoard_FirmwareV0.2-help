@@ -30,7 +30,8 @@ Editor:LDN
    * 设置都会保存在键盘内部，掉电不会丢失，工作的时候，无需驱动软件的参与
 ****
    #### 认识功能层的配置界面
-   
+     ![PNG File](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionLayer/FuncLayerAll.png)
+     
    
    
    
