@@ -31,7 +31,7 @@ Editor:LDN
 ****
    #### 认识功能层的配置界面
      ![PNG File](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionLayer/FuncLayerAll.png "")
-     
+     ![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
    
    
    
