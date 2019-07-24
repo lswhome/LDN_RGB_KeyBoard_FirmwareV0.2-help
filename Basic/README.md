@@ -39,7 +39,7 @@ Editor:LDN
  ----
  ### 1677万色
    * LDN系列RGB键盘使用专用的LED驱动器，因此支持24bit真彩色图像的显示，颜色深度为2的24次方=1677万色
-   * LDN系列RGB键盘支持WS2812/SK6812系列的全彩RGB灯珠，WS2812/SK6812同样是24bit真彩色的原生支持
+   * LDN系列RGB键盘支持WS2812/SK6812系列的全彩RGB灯珠，WS2812/SK6812同样原生支持24bit真彩色
  ----
 [返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
 
