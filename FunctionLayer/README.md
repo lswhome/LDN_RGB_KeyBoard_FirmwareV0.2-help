@@ -38,7 +38,6 @@ Editor:LDN
    * 4  FwVer:0.1 固件的版本号
    * 5  BootLoaderVer:0.1 表示BootLoader的版本号
    * 6  当前编辑的功能层，通过这里选择编辑哪个层
-     * 界面：
      ![PNG File](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionLayer/FuncLayerEditLayers.png)
         * 1-> **橘黄色**表示当前正在编辑的层
         * 2-> **蓝色**表示其他未编辑的层
