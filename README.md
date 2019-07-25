@@ -80,7 +80,7 @@ Editor:LDN
    * [配置例子](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionLayer/README.md#配置例子 "点击跳转")
 ----
 
-## 触发层
+## [触发层](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md "点击跳转")
    * 触发层的用途
    * FN键
    * 组合键
