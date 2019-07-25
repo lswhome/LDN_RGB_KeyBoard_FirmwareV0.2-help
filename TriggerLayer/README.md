@@ -50,7 +50,7 @@ Editor:LDN
    * 每个FN键都具备三个触发功能
    ![](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/Trigger_FnKeyEditer.png)
    * 1-> Index，表示8个FN键的编号，从0-7
-   * 2-> Enable，表示这个FN键是否启用，鼠标左键单击即可切换ON(开启)/OFF(禁用)状态
+   * 2-> Enable，表示这个FN键是否启用，鼠标左键单击即可切换ON(开启)/OFF(禁用)状态，只有状态是ON（开启）的FN键，才会被触发
    * 3-> FnKeyID，表示使用哪个编号的按键作为FN键，单击后，从下面的参考层单击一个你希望使用的按键即可
    * 4-> 按下按键触发的事件，表示当这个FN键被按下的时候，做什么事情，单击即可从功能选择窗口内选择一个功能，**右键单击**清空配置
    * 5-> **释放按键触发的事件1**，当按下FN键之后又释放FN键，则触发本事件，**右键单击**清空配置
