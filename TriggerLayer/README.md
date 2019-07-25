@@ -20,7 +20,13 @@ Editor:LDN
    * 最多可以配置64组二合一键，一个按键可以衍生出三个触发功能
    * 最多可以配置64个按下保持键，不同的按下次数，具备不同的触发功能，使用更加灵活
    * 一个按键可以配置多个触发功能，当触发条件满足时，所有被配置的功能都会被触发
-   
+****
+   #### 主界面
+   ![Png File](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/TriggerAll.png)
+   * 1-> 触发层标签页，点击即可切换到触发层编辑器
+   * 2-> 子功能层编辑器标签页，点击即可切换
+   * 3-> 子功能编辑区
+   * 4-> 
 
 
 
