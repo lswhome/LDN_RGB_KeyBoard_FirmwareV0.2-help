@@ -74,9 +74,10 @@ Editor:LDN
    * [1677万色](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Basic/README.md#1677万色 "点击跳转")
    ----
 ## [功能层](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionLayer/README.md "点击跳转")
-   * 功能层的用途
-   * 功能层的工作逻辑
-   * 配置方法
+   * [概述](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionLayer/README.md#概述 "点击跳转")
+   * 配置界面
+   * 扫描规则
+   * 配置例子
 ----
 
 ## 触发层
