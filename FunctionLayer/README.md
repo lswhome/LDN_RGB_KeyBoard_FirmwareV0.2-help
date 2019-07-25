@@ -89,7 +89,19 @@ Editor:LDN
 ****
    #### 配置例子<br>
    * 更改按键功能
-      * 将A键更改为B
+      * 将层0的**A**键更改为**B**：
+      ![Png File](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionLayer/FuncLayer_example_1.png)
+           * 1-> 点击 **功能层配置**
+           * 2-> 点击默认层 **Layer0**
+           * 3-> 点击 **下载配置**
+           * 4-> 点击**A的下半部分**，会弹出如下的窗口
+           ![](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionLayer/FuncLayer_example_2.png)
+           * 1-> 点击 **常规按键** (默认)
+           * 2-> 点击 "B"，窗口会自动关闭
+           ![](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionLayer/FuncLayer_example_3.png)
+           * 1-> "A"按键已经变成了"B"
+           * 2-> 鼠标悬停在刚才更改的"B"上，会提示具体的功能
+           * 3-> 点击 **上传配置**，完成改键，此时再次按下键盘的"A"，输出的就是"B"
       
    
 ****
