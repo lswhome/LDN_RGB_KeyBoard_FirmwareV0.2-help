@@ -6,6 +6,8 @@ LDN_RGB_KeyBoard_FirmwareV0.2-help
 LDN keyboard firmware V0.2 help files, descriptions and examples of various settings functions, etc., I don't know English, so English is to use Google Translate, international friends can make it look.
 ****
 Editor:LDN
+
+[返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
 ****
 ## 触发层
    #### 概述
@@ -72,6 +74,8 @@ Editor:LDN
         * 如果按下FN键并未按下其他任何按键，就释放，则可输出一个键码，比如**空格键**   
    * **Fn键配置示例**
         * 请等待更新。。。
+   ****
+   [返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
    
 
 
