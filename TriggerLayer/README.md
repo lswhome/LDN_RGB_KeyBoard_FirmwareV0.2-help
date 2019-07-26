@@ -79,7 +79,7 @@ Editor:LDN
    * 每组最多可设置4个按键与FN键搭配触发
    * 当满足触发条件的时候，触发**按下按键触发的事件**，触发后，当失去触发条件（比如组内有按键被释放）后，触发**释放按键触发的事件**
    ****
-   ##### 界面
+   #### 组件配置界面
    ![](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/Trigger_ComboKeyEditer.png)
    * 1-> Index，组的编号，从0-47，一共48组
    * 2-> Enable，表示本组是否启用，鼠标左键单击切换ON(开启)/OFF(关闭)状态，只有状态是ON(开启)的才会被触发
