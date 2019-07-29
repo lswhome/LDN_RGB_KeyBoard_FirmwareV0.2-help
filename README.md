@@ -82,14 +82,17 @@ Editor:LDN
 ----
 
 ## [触发层](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md "点击跳转")
-   * 触发层的用途
-   * FN键
-   * 组合键
-   * 连击键
-   * 二合一键
-   * 按下保持键
+   * [概述](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#概述)
+   * [主界面](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#主界面)
+   * [管理功能](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#管理功能)
+   * [FN键配置](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#FN键配置)
+   * [组合键配置](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#组合键配置)
+   * [连击键配置](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#连击键配置)
+   * [二合一键配置](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#二合一键配置)
+   * [按下保持键配置](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#按下保持键配置)
+   * [配置示例](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#配置示例)
 ----
-## 宏
+## [宏](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Macro/README.md "点击跳转")
    * 宏的特性
    * 创建一个宏
    * 执行一个宏
