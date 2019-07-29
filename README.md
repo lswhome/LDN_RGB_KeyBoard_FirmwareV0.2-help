@@ -93,14 +93,8 @@ Editor:LDN
    * [配置示例](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#配置示例)
 ----
 ## [宏](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Macro/README.md "点击跳转")
-   * 宏的特性
-   * 创建一个宏
-   * 执行一个宏
 ----
-## 锁定键
-   * 锁定键的特性
-   * 创建一组锁定键
-   * 锁定一组锁定键
+## [锁定键](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/KeyLock/README.md "点击跳转")
 ----
 ## 按键灯（轴灯）配置
    * 具备的功能
