@@ -96,11 +96,7 @@ Editor:LDN
 ----
 ## [锁定键](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/KeyLock/README.md "点击跳转")
 ----
-## [按键灯（轴灯）配置](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/KeyLedCfg/README.md)
-   * 具备的功能
-   * RGB通道亮度调整
-   * 灯效切换
-   * 三个状态指示灯配置
+## [按键灯（轴灯）配置](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/KeyLedCfg/README.md "点击跳转")
 ----
 ## 扩展灯效和指示灯动作配置
    * 具备的功能
