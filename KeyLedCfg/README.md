@@ -6,6 +6,7 @@ LDN_RGB_KeyBoard_FirmwareV0.2-help
 LDN keyboard firmware V0.2 help files, descriptions and examples of various settings functions, etc., I don't know English, so English is to use Google Translate, international friends can make it look.
 ****
 Editor:LDN
+[返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
 ****
 ## 按键灯(轴灯)配置
    * 轴灯背光目前支持14个固定背光（0为关闭，1-14为固定的背光），8个自定义背光（固定背光灯效之后的8个编号为自定义背光，目前编号为15开始的为自定义背光）
@@ -31,6 +32,8 @@ Editor:LDN
    * 9-> 跟随轴灯灯效：如果选择了这个功能，则忽略选择的4种灯效，当状态灯点亮的时候，会自动跟随轴灯点亮和熄灭
    * 10-> 如果选择了指定颜色，则单击这里，可以选择一个颜色作为指示器的颜色
    * **SCROLL NUM**的配置方法相同     
+   
+   [返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
          
          
    
