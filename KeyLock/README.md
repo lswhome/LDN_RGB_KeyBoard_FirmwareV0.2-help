@@ -5,7 +5,8 @@ LDN_RGB_KeyBoard_FirmwareV0.2-help
 李大拿的键盘固件V0.2的帮助文件，各种设置功能的说明和例子等等，我不懂英文，所以英文的是使用谷歌翻译的，国际友人凑合看吧。<br>
 LDN keyboard firmware V0.2 help files, descriptions and examples of various settings functions, etc., I don't know English, so English is to use Google Translate, international friends can make it look.
 ****
-Editor:LDN
+Editor:LDN<br>
+[返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
 ****
 ## 锁定键配置
    * 锁定键类似操作系统的“粘带键”，允许触发之后，设定的按键一直保持在按下状态，直到再次被触发，则释放对应的按键；
@@ -27,4 +28,6 @@ Editor:LDN
    * 7-> **右键菜单->清除整组数据**，当前选择的组，整组数据会被清空
    * 8-> **右键菜单->清除当前单元格**，把当前选择的组的当前单元格的数据清空
    * 9-> **右键菜单->清空所选组的数据**，如果选择了多个组，则可以使用这个功能把所选的所有组数据清空
+   ****
+   [返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
    
