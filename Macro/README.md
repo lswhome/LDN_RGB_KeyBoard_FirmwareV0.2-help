@@ -5,7 +5,8 @@ LDN_RGB_KeyBoard_FirmwareV0.2-help
 李大拿的键盘固件V0.2的帮助文件，各种设置功能的说明和例子等等，我不懂英文，所以英文的是使用谷歌翻译的，国际友人凑合看吧。<br>
 LDN keyboard firmware V0.2 help files, descriptions and examples of various settings functions, etc., I don't know English, so English is to use Google Translate, international friends can make it look.
 ****
-Editor:LDN
+Editor:LDN<br>
+[返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
 ****
 ## 宏
    * 宏可以把各种序列化的重复的工作，制作成一个顺序执行的“脚本”，比如输出一个字符串，或者控制键盘的一些功能，比如开关层，切换层，管理背光等；宏具备跳转功能，因此可以制作带有循环功能的“脚本”，也支持把多个宏连接起来，变成一个超长的宏
@@ -23,4 +24,5 @@ Editor:LDN
    * 7-> FuncTions，当前这步宏的命令，双击即可重新选择指令，双击空白处即可增加新的指令
    * 8-> **右键菜单->清除当前步数据**，点击会清除当前选择的步的数据
    * 9-> **右键菜单->清除所选步数据**，点击会清除当前选择的所有步的数据
-   
+   ****
+   [返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
