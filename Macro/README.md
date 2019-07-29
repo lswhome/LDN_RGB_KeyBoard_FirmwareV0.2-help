@@ -12,9 +12,8 @@ Editor:LDN
    * 最多可编辑100组宏，从0-99
    * 每一组宏最多可编辑512步，从0-511
    * 宏执行器每隔1毫秒(0.001s)执行一条指令
-   <br>
    #### 配置界面
-   ![](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Macro/Macro_Manager.png)
+   ![png File](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Macro/Macro_Manager.png)
    * 1-> 当前要编辑的组的编号，从0-99
    * 2-> 把宏数据从键盘下载到驱动上，以便观察和修改
    * 3-> 把当前编辑的宏上传到键盘内
