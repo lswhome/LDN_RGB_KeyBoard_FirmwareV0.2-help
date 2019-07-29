@@ -92,7 +92,7 @@ Editor:LDN
    * [按下保持键配置](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#按下保持键配置)
    * [配置示例](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/TriggerLayer/README.md#配置示例)
 ----
-## 宏
+## [宏](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Macro/README.md "点击跳转")
    * 宏的特性
    * 创建一个宏
    * 执行一个宏
