@@ -20,8 +20,8 @@ xxxx.bmp             ->测试用的24位色BMP图片<br>
 LDNKBConfigTools.exe ->驱动主程序<br>
 Update log.txt       ->更新日志<br>
 ConfigFiles          ->文件夹，保存不同的键盘的硬件配置文件和默认功能层0的键位<br>
-ConfigFiles\[KeyBoard Name]\HWConfig.PhyCfg ->对应键盘的硬件配置文件<br>
-ConfigFiles\[KeyBoard Name]\FunctionLayer_0_Config.FLCfg ->对应键盘的功能层0的配置文件<br>
+ConfigFiles\\[KeyBoard Name]\HWConfig.PhyCfg ->对应键盘的硬件配置文件<br>
+ConfigFiles\\[KeyBoard Name]\FunctionLayer_0_Config.FLCfg ->对应键盘的功能层0的配置文件<br>
 Language\xxx.ini ->对应语言的语言包，可自行翻译，按照格式即可<br>
 ****
 # 软硬件特性
