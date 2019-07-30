@@ -104,17 +104,10 @@ Editor:LDN
 ----
 ## [系统功能](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/tree/master/SystemCfg/README.md "点击跳转")
 ----
+## [功能选择]()
+----
 ## [配置示例](#)
 ----
-
-
-
-
-
-
-
-
-
 
 
 
