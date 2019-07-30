@@ -102,15 +102,10 @@ Editor:LDN
 ----
 ## [自定义背光灯效](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/tree/master/CustomLedEff/README.md "点击跳转")
 ----
-## 系统功能
-   * 2个工作模式介绍
-   * 恢复默认值
-   * 更新固件
-   * 刷入硬件配置
-   * 皮肤和语言
-   * 关机后关闭背光
+## [系统功能](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/tree/master/SystemCfg/README.md "点击跳转")
 ----
-
+## [配置示例](#)
+----
 
 
 
