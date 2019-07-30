@@ -100,9 +100,7 @@ Editor:LDN
 ----
 ## [扩展灯效和指示灯动作配置](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/ExLedEff_LedActionCfg/README.md "点击跳转")
 ----
-## 自定义背光灯效
-   * 具备的功能
-   * 添加一个自定义背光
+## [自定义背光灯效](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/tree/master/CustomLedEff/README.md "点击跳转")
 ----
 ## 系统功能
    * 2个工作模式介绍
