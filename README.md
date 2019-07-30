@@ -7,6 +7,10 @@ LDN keyboard firmware V0.2 help files, descriptions and examples of various sett
 ****
 Editor:LDN
 ****
+最新版本的驱动下载（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-06-05)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
+最新版本的驱动下载（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-06-05)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)
+
+****
 # 软硬件特性
 #### 硬件特性
    * 使用STM32F103(72Mhz) or STM32F405/407(168Mhz) ARM核心的处理器
