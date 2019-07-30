@@ -28,4 +28,6 @@ Editor:LDN<br>
    * 11-> 点击即可弹出功能选择窗口，可选择一个功能用于当CAPS指示灯点亮的时候，所做的事
    * 12-> 点击即可弹出功能选择窗口，可选择一个功能用于当CAPS指示灯熄灭的时候，所做的事
    * **SCROLL NUM的配置方法相同**
-   
+   ****
+   [返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
+
