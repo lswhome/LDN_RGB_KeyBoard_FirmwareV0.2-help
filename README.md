@@ -8,8 +8,21 @@ LDN keyboard firmware V0.2 help files, descriptions and examples of various sett
 Editor:LDN
 ****
 最新版本的驱动下载（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-06-05)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
-最新版本的驱动下载（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-06-05)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)
-
+最新版本的驱动下载（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-06-05)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English.rar?raw=true)
+****
+驱动文件说明：
+Readme.txt           ->自述文件<br>
+xxxx.ldn             ->最新版本的固件<br>
+KeyBoardCode.ini     ->USB键码配置文件<br>
+MediaKeyCode.ini     ->多媒体键码配置文件<br>
+Skin.ini             ->皮肤和语言配置文件<br>
+xxxx.bmp             ->测试用的24位色BMP图片<br>
+LDNKBConfigTools.exe ->驱动主程序<br>
+Update log.txt       ->更新日志<br>
+ConfigFiles          ->文件夹，保存不同的键盘的硬件配置文件和默认功能层0的键位<br>
+ConfigFiles\[KeyBoard Name]\HWConfig.PhyCfg ->对应键盘的硬件配置文件<br>
+ConfigFiles\[KeyBoard Name]\FunctionLayer_0_Config.FLCfg ->对应键盘的功能层0的配置文件<br>
+Language\xxx.ini ->对应语言的语言包，可自行翻译，按照格式即可<br>
 ****
 # 软硬件特性
 #### 硬件特性
