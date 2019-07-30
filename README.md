@@ -105,8 +105,15 @@ Editor:LDN
 ## [系统功能](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/tree/master/SystemCfg/README.md "点击跳转")
 ----
 ## [功能选择](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionSelect/README.md "点击跳转")
+   * [概述](#https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionSelect/概述)
+   * [常规按键](#https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionSelect/常规按键页面)
+   * [多媒体按键](#https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionSelect/多媒体按键页面)
+   * [开关控制](#https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionSelect/开关控制页面)
+   * [宏功能](#https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionSelect/宏功能页面)
+   * [灯光控制](#https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionSelect/灯光控制页面)
 ----
 ## [配置示例](#)
+   * 请等待更新。。。
 ----
 
 
