@@ -8,7 +8,16 @@ LDN keyboard firmware V0.2 help files, descriptions and examples of various sett
 Editor:LDN<br>
 [返回主目录](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help "点击返回")
 ****
+
+
 ## 功能选择
+   * [概述](#概述)
+   * [常规按键](#常规按键页面)
+   * [多媒体按键](#多媒体按键页面)
+   * [开关控制](#开关控制页面)
+   * [宏功能](#宏功能页面)
+   * [灯光控制](#灯光控制页面)
+#### 概述
    * 所有可被触发的功能，都在功能选择窗口内提供
    * 选择了一个有效的功能后，窗口会自动关闭，表示选择完毕
    * 在不同的配置页面弹出的功能选择窗口，内容会根据配置页面的不同而有所不同
