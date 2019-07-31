@@ -132,7 +132,8 @@ Language\xxx.ini ->对应语言的语言包，可自行翻译，按照格式即�
    * [灯光控制](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/FunctionSelect/README.md#灯光控制页面)
 ----
 ## [配置示例](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Example/README.md)
-   * 请等待更新。。。
+   * [通过FN键和层来实现更多功能](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Example/README.md#通过FN键和层来实现更多功能)
+   * 更多的待更新...
 ----
 
 
