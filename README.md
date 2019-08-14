@@ -9,7 +9,7 @@ Editor:LDN
 ****
 ## 驱动下载
 最新版本的驱动下载，已支持音乐律动（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/1(19-08-14)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
-最新版本的驱动下载，已支持音乐律动（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-08-14)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English?raw=true)<br>
+最新版本的驱动下载，已支持音乐律动（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-08-14)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English.rar?raw=true)<br>
 最新版本的硬件配置工具下载（只有中文，无教程，配置键盘硬件的工具，错误的配置可能导致主控损坏，请三思）:[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/LDN_FW_Config_Tools.rar?raw=true)
 ****
 ## 驱动文件说明：<br>
