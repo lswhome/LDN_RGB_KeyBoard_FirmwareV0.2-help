@@ -8,8 +8,8 @@ LDN keyboard firmware V0.2 help files, descriptions and examples of various sett
 Editor:LDN
 ****
 ## 驱动下载
-最新版本的驱动下载（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-06-05)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
-最新版本的驱动下载（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-06-05)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English.rar?raw=true)<br>
+最新版本的驱动下载，已支持音乐律动（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/1(19-08-14)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
+最新版本的驱动下载，已支持音乐律动（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-08-14)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English?raw=true)<br>
 最新版本的硬件配置工具下载（只有中文，无教程，配置键盘硬件的工具，错误的配置可能导致主控损坏，请三思）:[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/LDN_FW_Config_Tools.rar?raw=true)
 ****
 ## 驱动文件说明：<br>
@@ -20,6 +20,7 @@ MediaKeyCode.ini     ->多媒体键码配置文件<br>
 Skin.ini             ->皮肤和语言配置文件<br>
 xxxx.bmp             ->测试用的24位色BMP图片<br>
 LDNKBConfigTools.exe ->驱动主程序<br>
+C3_LDN_LedEffectTools.exe ->律动的支持程序，要使用律动功能，必须打开这个程序<br>
 Update log.txt       ->更新日志<br>
 ConfigFiles          ->文件夹，保存不同的键盘的硬件配置文件和默认功能层0的键位<br>
 ConfigFiles\\[KeyBoard Name]\HWConfig.PhyCfg ->对应键盘的硬件配置文件<br>
