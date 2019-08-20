@@ -20,7 +20,7 @@ MediaKeyCode.ini     ->多媒体键码配置文件<br>
 Skin.ini             ->皮肤和语言配置文件<br>
 xxxx.bmp             ->测试用的24位色BMP图片<br>
 LDNKBConfigTools.exe ->驱动主程序<br>
-C3_LDN_LedEffectTools.exe ->律动的支持程序，要使用律动功能，必须打开这个程序<br>
+**C3_LDN_LedEffectTools.exe ->律动的支持程序，要使用律动功能，必须打开这个程序，要使用律动，必须打开这个工具**<br>
 Update log.txt       ->更新日志<br>
 ConfigFiles          ->文件夹，保存不同的键盘的硬件配置文件和默认功能层0的键位<br>
 ConfigFiles\\[KeyBoard Name]\HWConfig.PhyCfg ->对应键盘的硬件配置文件<br>
