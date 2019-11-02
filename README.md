@@ -8,7 +8,7 @@ LDN keyboard firmware V0.2 help files, descriptions and examples of various sett
 Editor:LDN
 ****
 ## 驱动下载
-**注意：低版本的固件，连接高版本的驱动，驱动软件会主动提示需要更新固件，并且在点击了提示的确定按钮后，会自动切换到BOOTLOADER模式，此时直接选择固件文件并点击更新即可！不要再问切换到BootLoader的按钮为何点不了了。**
+**注意：低版本的固件，连接高版本的驱动，驱动软件会主动提示需要更新固件，并且在点击了提示的确定按钮后，会自动切换到BOOTLOADER模式，此时直接选择固件文件并点击更新即可！不要再问切换到BootLoader的按钮为何点不了了。**<br>
 最新版本的驱动下载，已支持音乐律动（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-11-02)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
 The latest version of the driver download, has supported the music rhythm（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-11-02)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English.rar?raw=true)<br>
 最新版本的硬件配置工具下载（只有中文，无教程，配置键盘硬件的工具，错误的配置可能导致主控损坏，请三思）:[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/LDN_FW_Config_Tools.rar?raw=true)
