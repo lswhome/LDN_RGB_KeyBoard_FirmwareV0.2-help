@@ -8,11 +8,42 @@ LDN keyboard firmware V0.2 help files, descriptions and examples of various sett
 Editor:LDN
 ****
 ## 驱动下载
-=======
 最新版本的驱动下载，已支持音乐律动（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-11-02)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
 The latest version of the driver download, has supported the music rhythm（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-11-02)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English.rar?raw=true)<br>
 最新版本的硬件配置工具下载（只有中文，无教程，配置键盘硬件的工具，错误的配置可能导致主控损坏，请三思）:[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/LDN_FW_Config_Tools.rar?raw=true)
 ****
+## 更新日志
+12:40 2019/11/2
+增加了WS2812的音乐电平功能，底灯或者四灯也支持音乐电平显示了（会根据音乐跳动）
+支持修改不同版本的WS2812的颜色数据格式，默认是GRB格式
+支持调整WS2812的亮度，每一组都是独立可调的亮度（通过损失颜色位数从而降低亮度），降低亮度从而降低了耗电，避免USB口供电不足
+增加了新的背光驱动方案，同时兼容老的方案，消隐效果更好，驱动能力也更好（颜色更明亮鲜艳）
+
+
+14:44 2019/10/12
+修复了M4处理器的BIOS识别BUG
+
+15:50 2019/8/20
+修复了休眠模式无法唤醒的BUG
+
+15:21 2019/8/14
+增加了音乐律动支持，目前有2个律动灯效
+
+16:15 2019/7/14
+支持M4主控
+
+17:19 2019/6/26
+修复了驱动上的触发层编辑器中，【清空本层数据】功能，实际上是清空了，但是界面没有刷新的BUG。
+
+12:08 2019/6/5
+更新了英文语言包
+
+
+10:53 2019/6/4
+更新了3个灯效，固定灯效从0-14
+更新了版本匹配逻辑，驱动与固件不匹配，无法使用
+
+
 ## 驱动文件说明：<br>
 Readme.txt           ->自述文件<br>
 xxxx.ldn             ->最新版本的固件<br>
