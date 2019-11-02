@@ -8,13 +8,15 @@ LDN keyboard firmware V0.2 help files, descriptions and examples of various sett
 Editor:LDN
 ****
 ## 驱动下载
+**注意：低版本的固件，连接高版本的驱动，驱动软件会主动提示需要更新固件，并且在点击了提示的确定按钮后，会自动切换到BOOTLOADER模式，此时直接选择固件文件并点击更新即可！不要再问切换到BootLoader的按钮为何点不了了。**
 最新版本的驱动下载，已支持音乐律动（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-11-02)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
 The latest version of the driver download, has supported the music rhythm（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-11-02)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English.rar?raw=true)<br>
 最新版本的硬件配置工具下载（只有中文，无教程，配置键盘硬件的工具，错误的配置可能导致主控损坏，请三思）:[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/LDN_FW_Config_Tools.rar?raw=true)
 ****
 ## 更新日志
 12:40 2019/11/2
-增加了WS2812的音乐电平功能，底灯或者四灯也支持音乐电平显示了（会根据音乐跳动）<br>
+**本次更新固件之后，之前的灯效配置会丢失，需要重新选择灯效。**<br>
+增加了WS2812的音乐电平显示功能，底灯或者四灯也支持音乐电平显示了（会根据音乐跳动）<br>
 支持修改不同版本的WS2812的颜色数据格式，默认是GRB格式<br>
 支持调整WS2812的亮度，每一组都是独立可调的亮度（通过损失颜色位数从而降低亮度），降低亮度从而降低了耗电，避免USB口供电不足<br>
 增加了新的背光驱动方案，同时兼容老的方案，消隐效果更好，驱动能力也更好（颜色更明亮鲜艳）<br>
@@ -30,7 +32,7 @@ The latest version of the driver download, has supported the music rhythm（Defa
 增加了音乐律动支持，目前有2个律动灯效
 
 16:15 2019/7/14
-支持M4主控
+支持STM32F405/F407主控
 
 17:19 2019/6/26
 修复了驱动上的触发层编辑器中，【清空本层数据】功能，实际上是清空了，但是界面没有刷新的BUG。
