@@ -14,6 +14,11 @@ The latest version of the driver download, has supported the music rhythm（Defa
 最新版本的硬件配置工具下载（只有中文，无教程，配置键盘硬件的工具，错误的配置可能导致主控损坏，请三思）:[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/LDN_FW_Config_Tools.rar?raw=true)
 ****
 ## 更新日志
+10:43 2019/11/3<br>
+修复了一个小问题：<br>
+当USB供电不足的时候，背光会闪烁，此时会导致背光驱动芯片重新启动，从而导致之前配置的显示矩阵错位，主要表现在右侧几列显示错位，本次更新通过实时侦测芯片重启，从而在重启后自动重新设置显示矩阵而修复这个BUG。<br>
+
+
 12:40 2019/11/2<br>
 **本次更新固件之后，之前的灯效配置会丢失，需要重新选择灯效。**<br>
 增加了WS2812的音乐电平显示功能，底灯或者四灯也支持音乐电平显示了（会根据音乐跳动）<br>
