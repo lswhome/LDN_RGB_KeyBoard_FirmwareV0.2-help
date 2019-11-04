@@ -8,15 +8,49 @@ LDN keyboard firmware V0.2 help files, descriptions and examples of various sett
 Editor:LDN
 ****
 ## 驱动下载
-<<<<<<< HEAD
+**注意：低版本的固件，连接高版本的驱动，驱动软件会主动提示需要更新固件，并且在点击了提示的确定按钮后，会自动切换到BootLoader模式，此时直接选择固件文件并点击更新即可！不要再问切换到BootLoader的按钮为何点不了，因为已经是BootdLoader模式了。**<br><br>
 最新版本的驱动下载，已支持音乐律动（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-11-02)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
 The latest version of the driver download, has supported the music rhythm（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-11-02)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English.rar?raw=true)<br>
-=======
-最新版本的驱动下载，已支持音乐律动（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-10-12)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
-The latest version of the driver download, has supported the music rhythm（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-10-12)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English.rar?raw=true)<br>
->>>>>>> 48b1efcad6d8f02ca318bc5dd4927ec5ed4df470
 最新版本的硬件配置工具下载（只有中文，无教程，配置键盘硬件的工具，错误的配置可能导致主控损坏，请三思）:[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/LDN_FW_Config_Tools.rar?raw=true)
 ****
+## 更新日志
+10:43 2019/11/3<br>
+修复了一个小问题：<br>
+当USB供电不足的时候，背光会闪烁，此时会导致背光驱动芯片重新启动，从而导致之前配置的显示矩阵错位，主要表现在右侧几列显示错位，本次更新通过实时侦测芯片重启，从而在重启后自动重新设置显示矩阵而修复这个BUG。<br>
+
+
+12:40 2019/11/2<br>
+**本次更新固件之后，之前的灯效配置会丢失，需要重新选择灯效。**<br>
+增加了WS2812的音乐电平显示功能，底灯或者四灯也支持音乐电平显示了（会根据音乐跳动）<br>
+支持修改不同版本的WS2812的颜色数据格式，默认是GRB格式<br>
+支持调整WS2812的亮度，每一组都是独立可调的亮度（通过损失颜色位数从而降低亮度），降低亮度从而降低了耗电，避免USB口供电不足<br>
+增加了新的背光驱动方案，同时兼容老的方案，消隐效果更好，驱动能力也更好（颜色更明亮鲜艳）<br>
+
+
+14:44 2019/10/12<br>
+修复了M4处理器的BIOS识别BUG
+
+15:50 2019/8/20<br>
+修复了休眠模式无法唤醒的BUG
+
+15:21 2019/8/14<br>
+增加了音乐律动支持，目前有2个律动灯效
+
+16:15 2019/7/14<br>
+支持STM32F405/F407主控
+
+17:19 2019/6/26<br>
+修复了驱动上的触发层编辑器中，【清空本层数据】功能，实际上是清空了，但是界面没有刷新的BUG。
+
+12:08 2019/6/5<br>
+更新了英文语言包
+
+
+10:53 2019/6/4<br>
+更新了3个灯效，固定灯效从0-14
+更新了版本匹配逻辑，驱动与固件不匹配，无法使用
+
+
 ## 驱动文件说明：<br>
 Readme.txt           ->自述文件<br>
 xxxx.ldn             ->最新版本的固件<br>
