@@ -9,11 +9,45 @@ Editor:LDN
 ****
 ## 驱动下载
 **注意：低版本的固件，连接高版本的驱动，驱动软件会主动提示需要更新固件，并且在点击了提示的确定按钮后，会自动切换到BootLoader模式，此时直接选择固件文件并点击更新即可！不要再问切换到BootLoader的按钮为何点不了，因为已经是BootdLoader模式了。**<br><br>
-最新版本的驱动下载，已支持音乐律动（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-12-19)C3_LDN_RGB_KeyBoard_Drivers_v1.0_Chinese.rar?raw=true)<br>
-The latest version of the driver download, has supported the music rhythm（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(19-12-19)C3_LDN_RGB_KeyBoard_Drivers_v1.0_English.rar?raw=true)<br>
+最新版本的驱动下载，已支持音乐律动（默认中文）：[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(20-03-16)C3_LDN_RGB_KeyBoard_Drivers_v1.1_Chinese.rar?raw=true)<br>
+The latest version of the driver download, has supported the music rhythm（Default Language English）：[DownLoad](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/(20-03-16)C3_LDN_RGB_KeyBoard_Drivers_v1.1_English.rar?raw=true)<br>
 最新版本的硬件配置工具下载（只有中文，无教程，配置键盘硬件的工具，错误的配置可能导致主控损坏，请三思）:[下载](https://github.com/lswhome/LDN_RGB_KeyBoard_FirmwareV0.2-help/blob/master/Drivers/LDN_FW_Config_Tools.rar?raw=true)
 ****
 ## 更新日志
+
+
+
+11:49 2020/3/16<br>
+	1 固件更新到0.4.3，修复了以下2个BUG<br>
+	2 修复宏脚本在跨组跳转的时候，跳转无效的BUG。<br>
+	3 修复FN键在更改或者取消之后，会导致原先被配置的FN键无法触发的BUG<br>
+
+15:28 2020/3/12<br>
+	1 固件更新到0.4.2，增加了自动量产工具的批量自动配置功能；<br>
+
+14:24 2020/3/4<br>
+	1 律动上位机增加了自动跟随系统音量的功能，开启后可自动根据系统音量调整律动幅度。<br>
+	2 律动上位机修复了打开时如果没有在播放音乐，则不会刷新UI的BUG。<br>
+	3 固件以及驱动无需更新。<br>
+
+11:55 2020/2/8<br>
+	1 固件更新到0.4.1，WS2812的电平显示增益可在律动的上位机（C3_LDN_LedEffectTools.exe）上配置。<br>
+	2 律动的上位机功能修改：<br>
+		1 键盘的频谱波段可配置，可配置22个波段，每个波段可配置混合频段（0-60个），每个波段都可单独配置增益<br>
+		2 UI显示的频谱波段可配置，可配置160个波段，每个波段可配置混合频段（0-60个），每个波段都可单独配置增益<br>
+		3 UI显示的颜色可配置<br>
+		4 UI显示的频谱参数可配置<br>
+		5 采用了配置文件的方式，根据当前的采样率，会在.\LedEffCfg\文件夹内生成xxxxxConfig.ini（xxxxx=采样率）的配置文件，程序在打开的时候，会自动加载当前采样率匹配的配置文件<br>
+		6 所有配置均为实时生效<br>
+	3 虽然所有配置均为实时生效，但是只有在配置窗口关闭的时候，才会保存到配置文件内<br>
+	4 混合频段默认为0（不混频），不要配置过多，否则会导致计算量大增，浪费CPU资源，建议左右频段混频加起来不超过10段<br>
+
+
+
+17:18 2020/1/28<br>
+	1 固件更新到0.4.0，增加了WS2812的组内灯珠任意选择排序的功能<br>
+	2 驱动配合固件已更新，必须更新键盘固件，才可以使用最新的功能，因此驱动连接后会要求更新固件。<br>
+
 
 13:38 2019/11/14<br>
 修复了上位机软件（驱动）在高分屏下UI显示错乱的BUG。<br>
